@@ -1,6 +1,6 @@
 # 2025_GOOSE_2D_MaskDINO
 
-This repository contains the implementation for **2D semantic segmentation** in the GOOSE 2025 challenge, based on **MaskDINO** and DETR-family models such as DINO, DN-DETR, and DAB-DETR.
+This repository contains the implementation for **2D semantic segmentation** in the GOOSE 2025 challenge, based on **MaskDINO**.
 
 ## 🔧 Architecture Overview
 
