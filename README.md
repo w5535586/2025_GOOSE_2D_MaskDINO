@@ -7,7 +7,7 @@ This repository contains the implementation for **2D semantic segmentation** in 
 The model is built on top of the MaskDINO framework, which incorporates transformer-based encoder-decoder design with improved query-based denoising strategies and dynamic anchor boxes.
 
 <p align="center">
-  <img src="assets/model_architecture.png" alt="Model Architecture" width="700"/>
+  <img src="assets/maskdino++.drawio.png" alt="Model Architecture" width="700"/>
 </p>
 
 *Please place your architecture image in `assets/model_architecture.png`.*
